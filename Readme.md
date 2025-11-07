@@ -16,3 +16,4 @@ Play against the computer and see who wins!
 ---
 
 Made while learning JavaScript basics and event handling 🪄
+---
